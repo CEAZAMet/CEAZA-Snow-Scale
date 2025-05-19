@@ -14,7 +14,7 @@ The board has two LEDs to indicate communication status with other devices, as w
 
 #### Schematic
 
-![Schematic](01.Hardware/01.CAD files/schematic_scale.png)  
+![Schematic](01.Hardware/01.CADfiles/schematic_scale.png)  
 
 #### BOM
 
