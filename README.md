@@ -21,14 +21,6 @@ The board has two LEDs to indicate communication status with other devices, as w
 The Bill of Materials (BOM) is located in the hardware folder [link](01.Hardware/02.BOM/BOM_CEAZA_SNOW_SCALE_V1.3.xls). This file contains the part IDs specific to the manufacturer JLCPCB, where version 1.3.1 of the board was fabricated, from there is possible to find other options for the components.
 
 ### LICENSES
+ ![Licenses_open](04.Licenses/oshw_OpenSourceLicenses.jpg)
 
-<table>
-  <tr>
-    <td>
-      <img src="04.Licenses/oshw_OpenSourceLicenses.jpg" width="25%" alt="Licenses_open">
-    </td>
-    <td>
-      <img src="04.Licenses/certification-mark-CL000008-stacked.png" width="25%" alt="OSHWA certification">
-    </td>
-  </tr>
-</table>
+ <img src="04.Licenses/certification-mark-CL000008.jpg" width="25%"> 
