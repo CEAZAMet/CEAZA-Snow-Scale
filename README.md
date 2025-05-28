@@ -23,4 +23,4 @@ The Bill of Materials (BOM) is located in the hardware folder [link](01.Hardware
 ### LICENSES
  ![Licenses_open](04.Licenses/oshw_OpenSourceLicenses.jpg)
 
- ![Licenses_oshwa](04.Licenses/certification-mark-CL000008.jpg)    
+ <img src="04.Licenses/certification-mark-CL000008.jpg" width="25%"> 
