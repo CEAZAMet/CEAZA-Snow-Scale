@@ -4,7 +4,7 @@
 CEAZA Snow Scale is a board designed to connect 4 load cells for the purpose of measuring snow weight in the Andes mountain range, Chile. In its v1.3.1 version, it is compatible with the protocol RS485. 
 
 
-### Hardware Description
+## Hardware Description
 
 The electronic board uses an ATMEGA328P microcontroller, where the peripherals are connected to this unit. For measuring the deformation of the four load cells, two HX711 24-bit Analog-to-Digital Converter ICs are used. The RS485 communication protocol was selected for the CEAZA Snow Scale due to its long-range capability, using the SP3485EN IC as a driver. Due to the hardware's sensitivity to temperature, the DS18B20 sensor in its TO-92 package format is used for temperature measurement. 
 
